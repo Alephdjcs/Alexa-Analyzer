@@ -34,7 +34,7 @@ def deleteNews():
                 'sentiment': sentiment,
                 'timestamp':timestamp
                     }
-                    ) 
+     //update               ) 
 
 def findNews():
     #News credit to newsapi.org
